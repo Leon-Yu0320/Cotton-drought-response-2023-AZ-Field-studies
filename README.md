@@ -1,5 +1,6 @@
 # **Genomic analysis of 2023 Summer AZ field data**
-![Uploading Screen Shot 2023-12-13 at 10.51.24 PM.png…]()
+<img width="439" alt="Screen Shot 2023-12-13 at 10 52 00 PM" src="https://github.com/Leon-Yu0320/Cotton-drought-response-2023-AZ-Field-studies/assets/69836931/29bd21e2-5651-46ee-8262-046382ff1c6a">
+
 
 **Author: Li'ang Yu, Andrew Nelson** \
 **Date: Dec 13th, 2023**
