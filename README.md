@@ -1,4 +1,5 @@
 # **Genomic analysis of 2023 Summer AZ field data**
+![Uploading Screen Shot 2023-12-13 at 10.51.24 PM.png…]()
 
 **Author: Li'ang Yu, Andrew Nelson** \
 **Date: Dec 13th, 2023**
